@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79bbbcdda7d8d524bb8aa355aa1eb1f9, type: 3}
+  m_Name: Jwellery2
+  m_EditorClassIdentifier: 
+  type: 4
+  item: 23
+  icon: {fileID: 21300000, guid: 46b9c2b776818214f81ef5d08204f55f, type: 3}
+  itemDescription: This is Jwellery type 2.
+  buyingPrice: 1200
+  sellingPrice: 1000
+  weight: 80
+  rarity: 3
+  quantity: 0
